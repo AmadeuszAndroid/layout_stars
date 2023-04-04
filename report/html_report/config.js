@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document.png",
-        "test": "..\\bitmaps_test\\20230404-094223\\Entire_document.png",
+        "test": "..\\bitmaps_test\\20230404-100348\\Entire_document.png",
         "selector": "document",
         "fileName": "Entire_document.png",
         "label": "Entire document",
@@ -20,17 +20,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "15.41",
-          "analysisTime": 54
-        },
-        "diffImage": "..\\bitmaps_test\\20230404-094223\\failed_diff_Entire_document.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\stars--0.png",
-        "test": "..\\bitmaps_test\\20230404-094223\\stars--0.png",
+        "test": "..\\bitmaps_test\\20230404-100348\\stars--0.png",
         "selector": ".stars--0",
         "fileName": "stars--0.png",
         "label": "stars--0",
@@ -46,17 +44,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "11.94",
-          "analysisTime": 37
-        },
-        "diffImage": "..\\bitmaps_test\\20230404-094223\\failed_diff_stars--0.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\stars--1.png",
-        "test": "..\\bitmaps_test\\20230404-094223\\stars--1.png",
+        "test": "..\\bitmaps_test\\20230404-100348\\stars--1.png",
         "selector": ".stars--1",
         "fileName": "stars--1.png",
         "label": "stars--1",
@@ -72,17 +68,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "11.94",
-          "analysisTime": 14
-        },
-        "diffImage": "..\\bitmaps_test\\20230404-094223\\failed_diff_stars--1.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\stars--2.png",
-        "test": "..\\bitmaps_test\\20230404-094223\\stars--2.png",
+        "test": "..\\bitmaps_test\\20230404-100348\\stars--2.png",
         "selector": ".stars--2",
         "fileName": "stars--2.png",
         "label": "stars--2",
@@ -98,17 +92,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "14.37",
-          "analysisTime": 35
-        },
-        "diffImage": "..\\bitmaps_test\\20230404-094223\\failed_diff_stars--2.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\stars--3.png",
-        "test": "..\\bitmaps_test\\20230404-094223\\stars--3.png",
+        "test": "..\\bitmaps_test\\20230404-100348\\stars--3.png",
         "selector": ".stars--3",
         "fileName": "stars--3.png",
         "label": "stars--3",
@@ -124,17 +116,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "16.75",
-          "analysisTime": 13
-        },
-        "diffImage": "..\\bitmaps_test\\20230404-094223\\failed_diff_stars--3.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\stars--4.png",
-        "test": "..\\bitmaps_test\\20230404-094223\\stars--4.png",
+        "test": "..\\bitmaps_test\\20230404-100348\\stars--4.png",
         "selector": ".stars--4",
         "fileName": "stars--4.png",
         "label": "stars--4",
@@ -150,17 +140,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "19.31",
-          "analysisTime": 29
-        },
-        "diffImage": "..\\bitmaps_test\\20230404-094223\\failed_diff_stars--4.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\stars--5.png",
-        "test": "..\\bitmaps_test\\20230404-094223\\stars--5.png",
+        "test": "..\\bitmaps_test\\20230404-100348\\stars--5.png",
         "selector": ".stars--5",
         "fileName": "stars--5.png",
         "label": "stars--5",
@@ -176,12 +164,10 @@ report({
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "22.00",
-          "analysisTime": 14
-        },
-        "diffImage": "..\\bitmaps_test\\20230404-094223\\failed_diff_stars--5.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     }
   ]
 });
